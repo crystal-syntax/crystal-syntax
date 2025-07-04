@@ -1,4 +1,4 @@
-# 👨‍💻 Crystal Syntax
+# ![Crystal Syntax](https://crystalsyntax.com/wp-content/uploads/2024/10/cropped-logo_512-32x32.png) Crystal Syntax - Learn Clearly, Code Confidently
 
 Welcome to **Crystal Syntax** — a forward-thinking software development institute where learning meets real-world experience. We offer intensive training programs and career-focused courses to prepare the next generation of developers.
 
